@@ -21,3 +21,5 @@ O desenvolvedor Front End é que programa a parte visual de um site ou aplicativ
 **Em um IDE**
 
 Um ambiente de desenvolvimento integrado (IDE) é um software para criar aplicações que combina ferramentas comuns de desenvolvimento em uma única interface gráfica de usuário (GUI)
+
+# Desenvolvedor Back End
