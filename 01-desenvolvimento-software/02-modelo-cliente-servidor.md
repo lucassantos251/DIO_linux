@@ -12,7 +12,9 @@ O modelo cliente-servidor é uma estrutura de aplicação que distribui as taref
 
 # Desenvolvedor Front End
 
-O desenvolvedor Front End é que programa a parte visual de um site ou aplicativo, ou seja, aquilo que conseguimos interagir. Quem trabalha com Front End é o responsável por desenvolver por meio de código uma interface gráfica, normalmente com as tecnologias base da Web (HTML, CSS e JavaScript).
+O desenvolvedor Front End é que programa a parte visual de um site ou aplicativo, ou seja, aquilo que conseguimos interagir. Quem trabalha com Front End é o responsável por desenvolver por meio de código uma interface gráfica, normalmente com as tecnologias base da Web.
+
+Exemplo: HTML, CSS e JavaScript.
 
 **Front End**: programação da parte visual.
 
@@ -23,3 +25,23 @@ O desenvolvedor Front End é que programa a parte visual de um site ou aplicativ
 Um ambiente de desenvolvimento integrado (IDE) é um software para criar aplicações que combina ferramentas comuns de desenvolvimento em uma única interface gráfica de usuário (GUI)
 
 # Desenvolvedor Back End
+
+Back End, como o próprio nome sugere, vem da ideia do que tem por trás de uma aplicação. Para conseguir usar o Facebook no dia a dia, os dados do seu perfil, amigos e publicações precisam estar salvos em algum lugar, sendo esse lugar um banco de dados e processados a partir de lá.
+
+O Back End trabalha em boa parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo. 
+
+Exemplo: JAVA, PHP e C#
+
+**Back End**: programação da parte de banco de dados.
+
+## API
+
+Application Programming Interface (interface de programação de aplicativos), um intermediário de software que permite que dois aplicativos conversem entre si. Cada vez que você usa um app como Facebook, envia uma mensagem instantânea ou verifica a previsão do tempo, você está usando uma API
+
+![api](img/Captura%20de%20tela%20de%202022-08-04%2016-33-25.png)
+
+# Desenvolvedor Full Stack
+
+Um Desenvolvedor Full Stack é alguém que trabalha com o Back End do aplicativo, bem como o Front End. Desenvolvedores Full Stack precisam ter algumas habilidades em uma ampla variedade de linguagens de programação
+
+**Full Stack**: programação Front End e Back End.
