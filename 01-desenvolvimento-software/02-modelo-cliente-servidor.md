@@ -45,3 +45,28 @@ Application Programming Interface (interface de programação de aplicativos), u
 Um Desenvolvedor Full Stack é alguém que trabalha com o Back End do aplicativo, bem como o Front End. Desenvolvedores Full Stack precisam ter algumas habilidades em uma ampla variedade de linguagens de programação
 
 **Full Stack**: programação Front End e Back End.
+
+# Nuvem Privada
+
+Nuvem privada são sistemas de armazenamento de dados em servidores físicos tradicionais. Ambiente com infraestrutura preparada para vários computadores enviarem e receberem dados requisitados pelo cliente.
+
+## Atividades e profissionais em nuvem privada
+
+1. Segurança da tecnologia da informação (lógica e física)
+2. Mão de obra especializada (software e hardware)
+3. Infraestrutura local
+
+# Nuvem Pública
+
+Os sistemas em nuvem são sistemas de armazenamento de dados disponibilizados via internet, em vez de servidores físicos tradicionais. Hoje, muitas organizações estão migrando o armazenamento ded dados de servidores físicos para sistemas baseados em nuvem.
+
+## Vantagens de migrar para a nuvem pública
+
+1. Preço (pague somente o que usar)
+2. Facilidade de contratação, configuração e infraestrutura
+3. Escalabilidade
+4. Performance
+
+## Profissional de Cloud Computing
+
+O profissional cloud computinh é responsável pela infraestrutura de nuvem oferecida aos clientes. Mais do que desenhar sistemas ou ambientes de TI, ele escolhe tecnologias que serão utilizadas, quais operadores são mais interessantes, como as peças vão ser integradas e, no fim, cuida do que foi construído.
