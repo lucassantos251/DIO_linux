@@ -17,20 +17,17 @@ groupadd GRP_SEC
 echo 'criando grupos'
 
 #criacao dos usuarios
-
 #grupo adm
 # ATENCAO, openssl atualizou os parametos de encriptacao para novas opcoes, no lugar do -crypt estou usando a encriptacao de md5 com o parametro -1
 useradd carlos -c "Carlos" -m -s /bin/bash -p $(openssl passwd -1 Senha123) -G GRP_ADM
 useradd maria -c "Maria" -m -s /bin/bash -p $(openssl passwd -1 Senha123) -G GRP_ADM
 useradd joao -c "João" -m -s /bin/bash -p $(openssl passwd -1 Senha123) -G GRP_ADM
-
 echo 'criando usuarios adm'
 
 #grupo ven
 useradd debora -c "Debora" -m -s /bin/bash -p $(openssl passwd -1 Senha123) -G GRP_VEN
 useradd sebastiana -c "Sebastiana" -m -s /bin/bash -p $(openssl passwd -1 Senha123) -G GRP_VEN
 useradd roberto -c "Roberto" -m -s /bin/bash -p $(openssl passwd -1 Senha123) -G GRP_VEN
-
 echo 'criando usuarios ven'
 
 #grupo sec
@@ -44,25 +41,21 @@ echo 'criando usuarios sec'
 
 #diretorio publico - FESTA GALERA
 chmod 777 /publico/
-
 echo 'modificando permissoes do diretorio publico'
 
 #diretorio adm
 chown root:GRP_ADM /adm/
 chmod 770 /adm/
-
 echo 'modificando permissoes do diretorio adm'
 
 #diretorio ven
 chown root:GRP_VEN /ven/
 chmod 770 /ven/
-
 echo 'modificando permissoes do diretorio ven'
 
 #diretorio sec
 chown root:GRP_SEC /sec/
 chmod 770 /sec/
-
 echo 'modificando permissoes do diretorio sec'
 
 #fim
